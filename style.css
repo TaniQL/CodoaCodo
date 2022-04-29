@@ -1,3 +1,15 @@
-.container{
-    background-attachment: fixed;
+.navbar{
+    background-color: #353A40;
+    
+}
+
+.navbar-light {
+    color: white !important
+}   
+
+.container-conf{
+    background-image: url("./ba1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
 }
